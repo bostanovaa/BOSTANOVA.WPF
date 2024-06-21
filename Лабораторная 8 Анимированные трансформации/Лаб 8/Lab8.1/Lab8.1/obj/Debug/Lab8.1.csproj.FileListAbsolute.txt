@@ -1,0 +1,15 @@
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\bin\Debug\Lab8.1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8._1.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8\Lab8.1\Lab8.1\obj\Debug\Lab8.1.pdb
